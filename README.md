@@ -3,7 +3,7 @@
 To run the code, locate MazeConverter.java. You can find it by following these steps:
 
 1. Unzip the submission folder.
-2. Navigate to the following directory: `ECM2423-CA -> src -> maze_solver -> MazeConverter.java`
+2. Navigate to the following directory: `ecm2423 -> ECM2423-CA -> src -> maze_solver -> MazeConverter.java`
 
 Open the file in a text editor and you're ready to edit according to the instructions below. Alternatively, you can open the `ECM2423` folder in an IDE and navigate to the file as mentioned above. Once you've found the file, you can edit the code and run it directly in your IDE.
 
