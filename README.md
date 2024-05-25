@@ -11,7 +11,7 @@ Open the file in a text editor and you're ready to edit according to the instruc
 
 1. Locate the maze text file you want to use.
 2. Get the absolute path of the maze file.
-3. In the `MazeConverter.java` file, paste the absolute path into the `fileToArray` function within the `mazeToNodes` function:
+3. In the `MazeConverter.java` file, paste the absolute path into the `fileToArray` function call within the `mazeToNodes` function call, where `mazeNodes` is being assigned:
     - Line 153 for Depth-First Search (DFS)
     - Line 166 for A* search
 4. (Optional) Change the output file name to a different name. For testing purposes, the default output files are named in the format: `dfsmazelarge_output`, where "dfs" is the algorithm used and "mazelarge" is the name of the maze.
