@@ -1,6 +1,6 @@
 **Getting Started**
 
-To run the code, locate MazeConverter.java. You can find it by following these steps:
+To run the code, locate MazeConverter.java. This is the main file that converts the mazes into 2D arrays, and runs either DFS or A* depending on what is commented out in the main function. You can find it by following these steps:
 
 1. Unzip the submission folder.
 2. Navigate to the following directory: `ecm2423 -> ECM2423-CA -> src -> maze_solver -> MazeConverter.java`
