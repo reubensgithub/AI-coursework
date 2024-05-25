@@ -20,7 +20,3 @@ Open the file in a text editor and you're ready to edit according to the instruc
 **Footnote**
 
 Please refer to the output files for questions 1.2.4 and 1.3.2, as some final paths are omitted due to the size and number of coordinates outputted.
-
-**Code**
-
-There is no code provided in the instructions, only explanations on how to edit existing code. 
